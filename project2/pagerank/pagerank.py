@@ -1,3 +1,7 @@
+# https://cs50.harvard.edu/ai/2020/projects/2/pagerank/
+# An AI to rank web pages by importance.
+# Done by JemboDev (Alexander Saprygin) @ 26.11.20
+
 import os
 import random
 import re
